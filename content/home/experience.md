@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   """
   
   
+[[experience]]
   title = "Developer"
   company = "Chuanglian studio， UESTC"
   company_url = ""
