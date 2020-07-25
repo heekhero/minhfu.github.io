@@ -45,9 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/heekhero
-#- icon: cv
-#   icon_pack: ai
-#   link: resume/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: resume/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "minhfu2@gmail.com"
