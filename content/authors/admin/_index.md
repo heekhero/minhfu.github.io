@@ -20,6 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include artificial intelligence, transfer learning and computer vision. 
 
+contact:
+- minhfu2@gmail.com
+
 interests:
 - Artificial Intelligence
 - Transfer Learning
