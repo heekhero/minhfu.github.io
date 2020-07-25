@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   location = "Chengdu,China"
   date_start = "2017-09-01"
   date_end = ""
-  description = """"""
+  GPA = "3.96/4"
+  
 
 +++
