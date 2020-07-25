@@ -63,7 +63,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm Minghao, a senior undergraduate from UESTC. During my campus life, I've always been interested in the interdisciplinary of computer vision and artificial intelligence. More specifically, I am engaged in cross-domain object detection. Now I'm an undergraduate research assistant at the [Data Intelligence Group(DIG)](https://diggers.ai/) with the supervision of Prof. [Lixin Duan](http://www.lxduan.info/) and [Wen Li](https://wenli-vision.github.io/).
