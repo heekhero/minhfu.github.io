@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description="""
-  GPA:3.96/4
+  Computer Science and Technology, GPA:3.96/4
   """
   
   
