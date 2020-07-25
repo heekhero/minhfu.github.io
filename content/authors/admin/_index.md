@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Electronic Science and Technology of China (UESTC)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
