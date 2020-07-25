@@ -9,6 +9,5 @@ more and more attention for real-world applications, since it helps build robust
 featured: false
 publication: "*arXiv preprint arXiv:2004.02093*"
 url_pdf = "https://arxiv.org/abs/2004.02093"
-[image]
 ---
 
