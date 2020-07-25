@@ -8,7 +8,7 @@ title = "Course Design of Distributed Parallel Computing"
 
 # Project summary to display on homepage.
 summary = """
-In this course, I have implemented the linear screening algorithm with MPI and obtained the NVIDIA CUDA course certificate.
+I have implemented the prime filtering algorithm with MPI and obtained the certificate of competency of the NVIDIA CUDA Foundation Course.
  """
  
 # image_preview = "MIPS_CPU/FPGA.png"
