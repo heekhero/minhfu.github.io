@@ -37,7 +37,8 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2018-08-31"
   description="""
-  Job Content: Server programming
+  Content: Server programming
+  
   Accomplishment: [Recruit Web](http://120.77.38.98:8999/login)
   """
 
