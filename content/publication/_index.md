@@ -1,5 +1,4 @@
----
-title: Publications
+title: Deeply Aligned Adaptation for Cross-domain Object Detection
 
 # View.
 #   1 = List
@@ -12,4 +11,3 @@ view: 4
 header:
   caption: ""
   image: ""
----
