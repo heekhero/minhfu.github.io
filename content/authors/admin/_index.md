@@ -59,5 +59,3 @@ user_groups:
 - Visitors
 ---
 I'm Minghao, a senior undergraduate from UESTC. During my campus life, I've always been interested in the interdisciplinary of computer vision and artificial intelligence. More specifically, I am engaged in cross-domain object detection. Now I'm an undergraduate research assistant at the [Data Intelligence Group(DIG)](https://diggers.ai/) with the supervision of Prof. [Lixin Duan](http://www.lxduan.info/) and [Wen Li](https://wenli-vision.github.io/).
-
-This is for test!
